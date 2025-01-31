@@ -1,10 +1,9 @@
-## Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF9999&height=200&text=%F0%9F%90%A4Welcome%20to%20Yerin%27s%20Github!&fontColor=FFFFFF&animation=fadeIn&fontSize=50&fontAlignY=35)
 <!--
 **ueriniuno/ueriniuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+## Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
